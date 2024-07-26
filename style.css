@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+
+.todaysWeather{
+  font-size: 3rem;
+  font-weight: 600;
+}
+.temperature{
+  font-size: 5rem;
+  font-weight: 900;
+}
+.windSpeed{
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+.timezone{
+  font-size: 2.5rem;
+  font-weight: 900;
+}
+.lastUpdate{
+  font-size: 2.5rem;
+  font-weight: 600;
+}
